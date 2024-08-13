@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AryanGupta145
-- 👀 I’m interested in ...App development
-- 🌱 I’m currently learning Ma-chi-ne-Learni--ng
-- 📫 How to reach me ...Mail me aryan145f@gmail.com
+👋 About Me
+Hello! I'm Aryan Gupta, a passionate and driven B. Tech student in Information Technology at Mukesh Patel School of Technology, Management and Engineering, Shirpur, NMIMS. My journey in the tech world has equipped me with a solid foundation in programming, software development, and data analysis. I'm constantly exploring new technologies and applying my skills to real-world projects.
 
-<!---
-AryanGupta145/AryanGupta145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technical Skills
+Languages: Python, Java (Beginner Level)
+Software: Power BI, Tableau, Weka, SAS, Figma, Android Studio, MS Office, Google Colab, Canva
+Concepts: Object-Oriented Programming, Operating Systems, Software Engineering, Cryptography, Blockchain Technology, AI and Robotics, Data Warehouse and Mining, Mobile Application Development
+Operating Systems: macOS, Windows, iOS, Android
+
