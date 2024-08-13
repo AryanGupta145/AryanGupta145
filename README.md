@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AryanGupta145
 - 👀 I’m interested in ...App development
-- 🌱 I’m currently learning ...C language
-- 💞️ I’m looking to collaborate on ...Projects on c language
-- 📫 How to reach me ...MAil me aryan145f@gmail.com
+- 🌱 I’m currently learning Ma-chi-ne-Learni--ng
+- 📫 How to reach me ...Mail me aryan145f@gmail.com
 
 <!---
 AryanGupta145/AryanGupta145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
